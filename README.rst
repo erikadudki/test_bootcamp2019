@@ -1,5 +1,5 @@
-Pink Fluffy Star|build|
-======================
+Pink Fluffy Star |build|
+========================
 This package gets you fit and fabulous
 
 Installation
