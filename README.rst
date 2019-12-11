@@ -1,5 +1,5 @@
-Pink Fluffy Star
-================
+Pink Fluffy Star|build|
+======================
 This package gets you fit and fabulous
 
 Installation
@@ -15,3 +15,6 @@ you can to this and this...
 
 Acknowledgement
 ---------------
+This project was funded by University of Bonn
+.. |build| image:: https://travis-ci.com/erikadudki/test_bootcamp2019.svg?branch=master
+    :target: https://travis-ci.com/erikadudki/test_bootcamp2019
